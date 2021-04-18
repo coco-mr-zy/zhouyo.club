@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 3a47643c9030855b436a                         #生成的clientID
   clientSecret: 986c6f03ad3cd20e4c5f88d0d212909a93459099    #生成的clientSecret
   repo: coco-mr-zy.github.io    #仓库名称
